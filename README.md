@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **RuilinYang-beta/RuilinYang-beta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,9 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I am Ruilin Yang 🙋
+### Hi, I am Ruilin Yang 👋
 
 - 📜 I am currently study at TU Hamburg, Germany.
+
 - 🎓 I hold a Bachelor degree in Computer Science & Engineering at University of Twente, the Netherlands.
 - 🔨 I am looking for opportunities to work as a frontend/full-stack software engineer.
+- 🕹️ Here are some of my projects: [ruilinYang-beta.github.io](ruilinYang-beta.github.io)
+- 🤝 You can reach me at ruilin.yang@protonmail.com.
 - 😊 Fun fact: I have a nephew that looks very much like me! And yeah we are good friend!
