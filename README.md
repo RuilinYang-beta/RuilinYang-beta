@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi, I am Ruilin Yang 👋
 
-- 📜 I currently study at TU Hamburg, Germany.
+- 📜 I currently live in Berlin, Germany.
 
 - 🎓 I hold a Bachelor degree in Computer Science & Engineering at University of Twente, the Netherlands.
 - 🔨 I am looking for opportunities to work as a frontend/full-stack software engineer.
