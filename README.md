@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - 🎓 I hold a Bachelor degree in Computer Science & Engineering at University of Twente, the Netherlands.
 - 🔨 I am looking for opportunities to work as a frontend engineer.
 - 🕹️ Here are some of my projects: [ruilinYang-beta.github.io](http://ruilinYang-beta.github.io)
-- 🤝 You can reach me at ruilin.yang@protonmail.com
+- 🤝 You can reach me at https://www.linkedin.com/in/ruilinyang-beta/
 - 😊 Fun fact: I have a nephew that looks very much like me! And yeah we are good friends!
