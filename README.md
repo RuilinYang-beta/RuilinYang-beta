@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 📜 I currently live in Berlin, Germany.
 
 - 🎓 I hold a Bachelor degree in Computer Science & Engineering at University of Twente, the Netherlands.
-- 🔨 I am looking for opportunities to work as a frontend engineer.
+- 🔨 I am looking for opportunities to work as a JavaScript Developer.
 - 🕹️ Here are some of my projects: [ruilinYang-beta.github.io](http://ruilinYang-beta.github.io)
 - 🤝 You can reach me at https://www.linkedin.com/in/ruilinyang-beta/
 - 😊 Fun fact: I have a nephew that looks very much like me! And yeah we are good friends!
