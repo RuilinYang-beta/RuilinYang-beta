@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 
 ### Hi, I am Ruilin Yang 👋
 
-- 📜 I currently live in Berlin, Germany.
-
-- 🎓 I hold a Bachelor degree in Computer Science & Engineering at University of Twente, the Netherlands.
-- 🔨 I am looking for opportunities to work as a JavaScript Developer.
+- 📍 I currently live in Berlin, Germany.
+- 🎓 I hold a B.Sc in Computer Science from University of Twente, the Netherlands.
+- 🔬 I currently enrolled in M.Sc program Cognitive System at University of Potsdam. 
 - 🕹️ Here are some of my projects: [ruilinYang-beta.github.io](http://ruilinYang-beta.github.io)
 - 🤝 You can reach me at https://www.linkedin.com/in/ruilinyang-beta/
 - 😊 Fun fact: I have a nephew that looks very much like me! And yeah we are good friends!
