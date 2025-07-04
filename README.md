@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - 📍 I live in Potsdam, Germany.
 - 🔬 I am currently enrolled in M.Sc. Cognitive System at University of Potsdam.
 - 🎓 I hold a B.Sc. Computer Science from University of Twente, the Netherlands.
-- 🕹️ Here are some of my projects: [ruilinYang-beta.github.io](http://ruilinYang-beta.github.io)
+- 🕹️ Here are some of my projects: [ruilinYang-beta.github.io](http://ruilinYang-beta.github.io) (Last update: Oct, 2024)
 <!-- - 🤝 You can reach me at https://www.linkedin.com/in/ruilinyang-beta/ -->
 - 😊 Fun fact: I have a nephew that looks very much like me!
